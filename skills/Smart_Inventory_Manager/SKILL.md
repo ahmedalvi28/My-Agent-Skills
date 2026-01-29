@@ -5,7 +5,7 @@ description: "Continuously monitors inventory, updates stock automatically after
 
 # Smart Inventory Manager Skill
 
-This skill acts as an intelligent inventory controller. It tracks stock changes, evaluates inventory health, and proactively flags risks such as low stock, overstocking, or delayed reordering.
+This skill acts as an intelligent inventory controller. It tracks stock changes, evaluates inventory health, and proactively flags risks such as low stock, overstocking, or delayed reordering
 
 ---
 
