@@ -11,6 +11,7 @@ This repository contains a collection of specialized AI skills organized in the 
 ```
 My Agent Skills/
 └── skills/
+
     ├── LinkedIn-DailyPost/
     │   └── SKILL.md
     ├── UrduPoetry/

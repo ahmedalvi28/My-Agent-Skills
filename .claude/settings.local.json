@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(ls -la *.md)"
+      "Bash(ls -la *.md)",
+      "Bash(dir \".claude\\\\agents\"\" /B)",
+      "Bash(powershell:*)"
     ]
   }
 }
